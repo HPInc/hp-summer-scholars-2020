@@ -1,3 +1,5 @@
+![](images/hp-summer-scholars.png)
+
 # Holistic View of Data to Drive Business Decisions
 
 This repo contains the Jupyter notebooks and supporting materials for the
