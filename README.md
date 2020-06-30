@@ -8,6 +8,10 @@ session on data and business insights.
 ### Presentation Slides
 See the slides here: [presentation/data-to-business-insights.pdf](presentation/data-to-business-insights.pdf). 
 
+### Walkthrough Video
+
+A detailed walkthrough video of the Jupyter notebook content may be found here: https://drive.google.com/file/d/1nEIxoFnFIYsoYnyghxqVNAounPQyJ0iW/view?usp=sharing (56 min.)
+
 ## Session Description
 
 "Data has rapidly become one of the most critical elements driving business strategy.  At HP, we believe that creating,
